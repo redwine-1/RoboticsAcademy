@@ -207,6 +207,7 @@ COPY public.exercises_universes (id, exercise_id, universe_id, is_default) FROM 
 57	1	53	False
 58	12	54	False
 59	10	56	False
+60	10	57	False
 \.
 -- 30  16  3
 
